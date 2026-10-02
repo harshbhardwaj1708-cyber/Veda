@@ -1,2 +1,2 @@
 # Veda
-Local 
+Project based on the Ai later it will implied .......
